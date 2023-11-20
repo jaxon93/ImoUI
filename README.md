@@ -14,10 +14,10 @@ The structure of this repository is like below: ImoUi
 The pictures of the app are:
 
 <div>
-  <img src="https://github.com/jaxon93/ImoUI/blob/master/light_mode_ui.png" width="30%" height="auto"/>
-  <img src="https://github.com/jaxon93/ImoUI/blob/master/dark_mode_ui.png" width="30%" height="auto"/>
-    <img src="https://github.com/jaxon93/ImoUI/blob/master/imo_contact_list_light_mode.png" width="30%" height="auto"/>
-  <img src="https://github.com/jaxon93/ImoUI/blob/master/imo_contact_list_dark_mode.png" width="30%" height="auto"/>
+  <img src="https://github.com/jaxon93/ImoUI/blob/master/light_mode_ui.png" width="25%" height="auto"/>
+  <img src="https://github.com/jaxon93/ImoUI/blob/master/dark_mode_ui.png" width="25%" height="auto"/>
+    <img src="https://github.com/jaxon93/ImoUI/blob/master/imo_contact_list_light_mode.png" width="25%" height="auto"/>
+  <img src="https://github.com/jaxon93/ImoUI/blob/master/imo_contact_list_dark_mode.png" width="25%" height="auto"/>
 </div>
 
 
