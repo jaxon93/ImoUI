@@ -3,7 +3,7 @@
 This is an Imo app UI project aimed at studying RecyclerView and creating a UI using it. (ImoUI main page - Older Version)
 It is my first time trying to add a dark mode to the app. Nice try for the first attempt :)
 
-This Project is wirtten in Kotlin and Java.
+This Project is written in Kotlin and Java.
 
 The structure of this repository is like below: ImoUi
 *  app (Imo main page UI written in Kotlin) ✅
