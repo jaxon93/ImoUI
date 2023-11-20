@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ImoUI" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:statusBarColor">#000000</item>
+    </style>
+
+    <!--    dark mode-->
+    <style name="SCREEN">
+        <item name="android:background">#000000</item>
+    </style>
+
+    <style name="item_screen">
+        <item name="android:background">#000000</item>
+    </style>
+
+
+    <style name="fullnameText">
+        <item name="android:textColor">#E3E3E3</item>
+    </style>
+
+    <style name="subText">
+        <item name="android:textColor">#9C9C9C</item>
+    </style>
+
+    <style name="LINE">
+        <item name="android:background">#F0F0F0</item>
+    </style>
+
+    <style name="ic_search">
+        <item name="android:src">@drawable/ic_search_white</item>
+    </style>
+
+    <style name="ic_menu">
+        <item name="android:src">@drawable/ic_menu_white</item>
+    </style>
+
+    <style name="imo">
+        <item name="android:textColor">#4DAEF3</item>
+    </style>
+
+</resources>
